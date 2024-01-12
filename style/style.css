@@ -1,0 +1,21 @@
+
+
+.details-btn{
+    width: 150px !important;
+    margin: 5px !important;
+}
+
+.dispo-col{
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+}
+
+table img{
+    height: 200px ;
+    width: 150px;
+}
+
